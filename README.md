@@ -1,0 +1,1 @@
+Designed a Radial Integrated Mounting System (RIMS) using Autodesk Fusion 360. The project focused on creating an efficient and versatile mounting system for [specific application, e.g., automotive or industrial use], aiming to enhance component integration and mechanical performance.
